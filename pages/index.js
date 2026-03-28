@@ -30,7 +30,7 @@ export default function Home({ allPostsData }) {
         </Head>
         <section className={utilStyle.headingMd}>
             <p>
-                ついにNext.jsデヴュー
+                ついにDPSワークフロー成功
             </p>
         </section>
 
